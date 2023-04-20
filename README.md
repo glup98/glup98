@@ -14,7 +14,7 @@ Soy un desarrollador Full Stack con experiencia en Java ☕, Spring 🌱, MySQL 
 </br>
 Y alguna más...
 
-## Quieres saber mas de mi?
+## ¿Quieres saber más de mí?
 [![Linkedin](https://img.shields.io/badge/Linkedin-Augusto_Mendoza-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/augusto-mendoza-7a6574173/)
 
 [![Drive](https://img.shields.io/badge/Curriculum_Augusto-Drive-34a853?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)](https://drive.google.com/file/d/1P5K7rhqNPhPPMrU4YvX3SqDOgeC2dYzc/view?usp=sharing)
