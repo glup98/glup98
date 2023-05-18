@@ -17,7 +17,7 @@ Y alguna más...
 ## ¿Quieres saber más de mí?
 [![Linkedin](https://img.shields.io/badge/Linkedin-Augusto_Mendoza-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/augusto-mendoza-7a6574173/)
 
-[![Drive](https://img.shields.io/badge/Curriculum_Augusto-Drive-34a853?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)](https://drive.google.com/file/d/1P5K7rhqNPhPPMrU4YvX3SqDOgeC2dYzc/view?usp=sharing)
+[![Drive](https://img.shields.io/badge/Curriculum_Augusto-Drive-34a853?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)](https://drive.google.com/file/d/1FndJpqThW6cEvpq90-r0qXLnqjhIMVGj/view?usp=sharing)
 
 ## Contáctame:
 [![Email](https://img.shields.io/badge/augustomendoza1998@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:augustomendoza1998@gmail.com)
